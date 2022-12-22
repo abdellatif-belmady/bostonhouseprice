@@ -22,3 +22,19 @@ git config --global user.name "Abdellatif BELMADY"
 ```
 git config --global user.email "abdellatif.belmady@gmail.com
 ```
+add a file
+```
+git add 'name of file'
+```
+add all the files
+```
+git add .
+```
+commit and add a commant
+```
+git commit -m "commant ..."
+```
+upload the files in github
+```
+git push arigin main
+```
